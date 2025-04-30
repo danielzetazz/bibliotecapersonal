@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Ficción",
+    "estado": "LEIDO",
+    "fecha_publicacion": "1949-06-08"
+  },
+  {
+    "titulo": "Breves respuestas a las grandes preguntas",
+    "autor": "Stephen Hawking",
+    "categoria": "Ciencia",
+    "estado": "NO_LEIDO",
+    "fecha_publicacion": "2018-10-16"
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "autor": "Yuval Noah Harari",
+    "categoria": "Historia",
+    "estado": "LEIDO",
+    "fecha_publicacion": "2011-06-04"
+  }
+]

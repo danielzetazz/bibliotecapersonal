@@ -1,0 +1,43 @@
+[
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Ficción",
+    "estado": "LEIDO",
+    "fechaPublicacion": "1950-01-01"
+  },
+  {
+    "titulo": "Breves respuestas a las grandes preguntas",
+    "autor": "Stephen Hawking",
+    "categoria": "Ciencia",
+    "estado": "NO_LEIDO",
+    "fechaPublicacion": "1950-01-01"
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "categoria": "Realismo mágico",
+    "estado": "LEIDO",
+    "fechaPublicacion": "1967-05-30"
+  },
+  {
+    "titulo": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Fantasía",
+    "fechaPublicacion": "1937-09-21"
+  },
+  {
+    "titulo": "La ciudad y los perros",
+    "autor": "Mario Vargas Llosa",
+    "categoria": "Realismo social",
+    "estado": "LEIDO",
+    "fechaPublicacion": "1963-10-01"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Ficción Distópica",
+    "estado": "LEIDO",
+    "fechaPublicacion": "1950-01-01"
+  }
+]
